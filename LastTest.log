@@ -1,0 +1,76 @@
+Nov 10 2023  Line: 62  Last test ran on :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 64  <Execution started Successfully> :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 70  Input accepted from existing data :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 81  Data feed into stations successfully :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 130  Query 1 accepted  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 138  Executing Query 1... :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 153  Case 1, required station found :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 160  Stations displayed successfully // Query 1 completed successfully :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 130  Query 3 accepted  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 193  Executing Query 3... :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 195  Sorting successfully completed according to vegetation  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 198  Query 3 completed successfully :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 130  Query 2 accepted  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 167  Executing Query 2... :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 180  Station searched DONE:  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 187  Displayed Thermally comfortable days // Query 2 completed successfully :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 130  Query 5 accepted  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 238  Executing Query 5... :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 243  Nearest rural station Found for station  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 243  Nearest rural station Found for station  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 247  Sorting DONE according to PSF :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 243  Nearest rural station Found for station  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 259  Query 5 completed Successfully :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 130  Query 3 accepted  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 193  Executing Query 3... :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 195  Sorting successfully completed according to vegetation  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 198  Query 3 completed successfully :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 130  Query 4 accepted  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 203  Executing Query 4... :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 210  Sorting DONE according to population :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 227  Sorting DONE according to maximum temperature :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 233  Query 3 completed successfully :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 130  Query 1 accepted  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 138  Executing Query 1... :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 153  Case 1, required station found :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 160  Stations displayed successfully // Query 1 completed successfully :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 130  Query 0 accepted  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
+C:\Users\Surya\Desktop\FinalDSPD\src\main.c  Line: 268  Execution completed exit(0) :  01:14:21(Indian Standard Time)
+--------------------------------------------------------------
